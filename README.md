@@ -7,6 +7,8 @@
 	        <img alt="Brand" src="img/usf/sflogo.png">
 	    </a>
 
+	    </br>
+
 	    <title>Business Intelligence Portal</title>
 
 	    <ul>
@@ -17,6 +19,6 @@
 	    </ul>
 
     </div>
-    
+
 </div>
 
