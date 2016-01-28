@@ -9,7 +9,7 @@
 
 	    </br>
 
-	    <h5>Business Intelligence Portal</h5>
+	    <h5>Business Intelligence Portal Demo</h5>
 
 	    <ul>
 	        <li>Tableau Javascript API</li>
