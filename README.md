@@ -4,7 +4,7 @@
 
 	    <a class="navbar-brand" href="https://www.usfca.edu/">
 	            	
-	        <img alt="Brand" src="img/usf/sflogo.png">
+	        <img alt="Brand" src="img/dashboard.png">
 	    </a>
 
 	    </br>
